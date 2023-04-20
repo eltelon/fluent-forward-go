@@ -48,7 +48,7 @@ const (
 	OptCompressed string = "compressed"
 	OptValGZIP    string = "gzip"
 
-	extensionType int8 = 0
+	extensionType int8 = 1
 	eventTimeLen  int  = 8
 )
 

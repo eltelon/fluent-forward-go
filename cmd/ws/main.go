@@ -34,9 +34,9 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/IBM/fluent-forward-go/fluent/client"
-	"github.com/IBM/fluent-forward-go/fluent/client/ws"
-	"github.com/IBM/fluent-forward-go/fluent/protocol"
+	"github.com/eltelon/fluent-forward-go/fluent/client"
+	"github.com/eltelon/fluent-forward-go/fluent/client/ws"
+	"github.com/eltelon/fluent-forward-go/fluent/protocol"
 )
 
 var (

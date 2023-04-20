@@ -1,4 +1,4 @@
-module github.com/IBM/fluent-forward-go
+module github.com/eltelon/fluent-forward-go
 
 go 1.18
 

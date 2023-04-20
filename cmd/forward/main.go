@@ -29,8 +29,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/IBM/fluent-forward-go/fluent/client"
-	"github.com/IBM/fluent-forward-go/fluent/protocol"
+	"github.com/eltelon/fluent-forward-go/fluent/client"
+	"github.com/eltelon/fluent-forward-go/fluent/protocol"
 )
 
 var (
